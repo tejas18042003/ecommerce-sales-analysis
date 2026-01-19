@@ -14,6 +14,6 @@ Brazilian E-Commerce Public Dataset by Olist (Kaggle)
 ### Key Insights
 - Some states generate more revenue than others by a good margin
 - Credit cards are the most common payment method
-
+- More detailed insights in the insights notebook
 ### Conclusion
 This project demonstrates end-to-end data analysis skills including data cleaning, EDA, and business insights.
